@@ -8,12 +8,14 @@
 ## 💡 About Me
 
 
-I'm a software developer with 2.5+ years of experience in building scalable backend systems using Node.js, PostgreSQL, Neo4j, Docker, and CI/CD tools.
+A passionate software developer with **2.5+ years** of experience designing and building scalable backend systems.  
+Currently pursuing an **MSc in Data Science & Analytics** at **EPITA**, focusing on expanding my expertise in:
 
-Currently pursuing an MSc in Data Science & Analytics at EPITA, I’m expanding my skills in machine learning, big data, and statistical modeling.
+- Machine Learning  
+- Data Engineering  
+- Statistical Modeling  
 
-🎯 **My goal:**
-My focus lies at the intersection of data engineering, backend development, and ML—building robust data pipelines, RESTful APIs, and intelligent solutions.
+💡 *I thrive at the intersection of data engineering, backend development, and machine learning — creating clean, scalable systems and robust data pipelines.*
 
 ---
 
