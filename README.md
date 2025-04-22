@@ -12,7 +12,9 @@ I'm a software developer with 2.5+ years of experience in building scalable back
 
 Currently pursuing an MSc in Data Science & Analytics at EPITA, I’m expanding my skills in machine learning, big data, and statistical modeling.
 
-🎯 **My goal:**My focus lies at the intersection of data engineering, backend development, and ML-building robust date pipelines, RESTful APIs, and intelligent solutions.
+🎯 **My goal:**
+My focus lies at the intersection of data engineering, backend development, and ML—building robust data pipelines, RESTful APIs, and intelligent solutions.
+
 ---
 
 ## 🧠 Core Areas
