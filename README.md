@@ -5,8 +5,7 @@
 
 ---
 
-## 💡 About Me
-
+## 🔍 Who Am I?
 
 A passionate software developer with **2.5+ years** of experience designing and building scalable backend systems.  
 Currently pursuing an **MSc in Data Science & Analytics** at **EPITA**, focusing on expanding my expertise in:
@@ -15,7 +14,7 @@ Currently pursuing an **MSc in Data Science & Analytics** at **EPITA**, focusing
 - Data Engineering  
 - Statistical Modeling  
 
-💡 *I thrive at the intersection of data engineering, backend development, and machine learning — creating clean, scalable systems and robust data pipelines.*
+💡I thrive at the intersection of data engineering, backend development, and machine learning — creating clean, scalable systems and robust data pipelines.
 
 ---
 
