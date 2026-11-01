@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=120&section=header&text=Visali%20Baskarana%20Kalpana&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Data%20Engineer%20%7C%20Data%20Analyst&descAlignY=68&descSize=16&descColor=c7d9ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=120&section=header&text=Visali%20Baskarana%20Kalpana&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%7C%20Data%20Engineer&descAlignY=68&descSize=16&descColor=c7d9ff" width="100%"/>
 
 </div>
 
@@ -46,8 +46,6 @@ class VisaliBaskaranaKalpana:
 
     opportunities = "Open to CDI roles in France & Europe"
 
-    def philosophy(self):
-        return "Reliable data foundations enable smarter analytics and AI."
 ```
 
 ---
@@ -234,15 +232,21 @@ Git · Linux
 | 🎓 **MSc Data Science & Analytics** | EPITA — School of Engineering and Computer Science, France | Data Science, Machine Learning, Data Engineering & Analytics |
 
 ---
-
-
-## 📈 GitHub Analytics
+## 📈 GitHub Portfolio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visalibaskarankalpana&layout=compact&hide_border=true&title_color=1a56db" alt="Top Languages"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visalibaskarankalpana?tab=repositories)
 
 </div>
+
+**Explore my work across Data Engineering, Business Intelligence, MLOps, and Cloud Infrastructure.**
+
+- ✈️ [Flight Price Prediction — MLOps](https://github.com/visalibaskarankalpana/predictive-pipeline)
+- 📊 [Meta Ad Performance Dashboard](https://github.com/visalibaskarankalpana/Meta-Ad-Performance-Dashboard)
+- 🛡️ [Ethical Chat Guard](https://github.com/visalibaskarankalpana/Ethical_Chat_Guard_Project)
+- ☁️ [Cloud-Native Health Tracker](https://github.com/visalibaskarankalpana/health-tracker-app)
+
 
 ---
 
