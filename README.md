@@ -232,23 +232,6 @@ Git · Linux
 | 🎓 **MSc Data Science & Analytics** | EPITA — School of Engineering and Computer Science, France | Data Science, Machine Learning, Data Engineering & Analytics |
 
 ---
-## 📈 GitHub Portfolio
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visalibaskarankalpana?tab=repositories)
-
-</div>
-
-**Explore my work across Data Engineering, Business Intelligence, MLOps, and Cloud Infrastructure.**
-
-- ✈️ [Flight Price Prediction — MLOps](https://github.com/visalibaskarankalpana/predictive-pipeline)
-- 📊 [Meta Ad Performance Dashboard](https://github.com/visalibaskarankalpana/Meta-Ad-Performance-Dashboard)
-- 🛡️ [Ethical Chat Guard](https://github.com/visalibaskarankalpana/Ethical_Chat_Guard_Project)
-- ☁️ [Cloud-Native Health Tracker](https://github.com/visalibaskarankalpana/health-tracker-app)
-
-
----
 
 ## 🤝 Connect
 
