@@ -1,66 +1,171 @@
-# 👋 Hi, I'm Visali Baskarana Kalpana
+# 👋 Hi, I'm Visali Baskaran Kalpana
 
-🚀 **Aspiring Data Scientist** | 🎓 MSc Data Science & Analytics @ EPITA - School of Engineering and Computer Science  
-📊 Passionate about the process of transforming **raw data** into **meaningful insights** through well-structured pipelines and scalable systems.
+🚀 **Data Analyst | Data Engineer | Business Intelligence Professional**
 
----
+I'm a data professional with 3+ years of experience transforming complex data into actionable insights and building scalable data solutions. My expertise spans **Data Analytics, Data Engineering, Business Intelligence, Cloud Data Platforms, and MLOps**, helping organizations turn data into meaningful business outcomes.
 
-## 🔍 Who Am I?
+Currently, I'm a **Data Analyst Intern at bioMérieux** in Lyon, France, where I work with enterprise-scale data from SAP and CRM systems, develop analytics-ready datasets in Snowflake, build Tableau dashboards, and deliver insights that support business performance and operational decision-making.
 
-A passionate software developer with **2.5+ years** of experience designing and building scalable backend systems.  
-Currently pursuing an **MSc in Data Science & Analytics** at **EPITA**, focusing on expanding my expertise in:
-
-- Machine Learning  
-- Data Engineering  
-- Statistical Modeling  
-
-💡I thrive at the intersection of data engineering, backend development, and machine learning — creating clean, scalable systems and robust data pipelines.
+I enjoy solving problems at the intersection of data and business by building reliable pipelines, automating workflows, and creating analytics solutions that drive measurable impact.
 
 ---
 
-## 🧠 Core Areas
+## 🔍 About Me
 
-- 🔹 **Data Engineering:** ETL pipeline development, database design & scaling, cloud-native architectures, Apache Kafka, Docker, CI/CD.
-- 🔹 **Data Science & ML:** Predictive analytics, model building, exploratory data analysis, feature engineering, data visualization.
-- 🔹 **Backend Development:** RESTful APIs, Node.js, Java (Spring Boot), PostgreSQL, Neo4j, MySQL.
+🎓 MSc Data Science & Analytics @ EPITA, France
 
----
+💼 3+ Years of Professional Experience
 
-## 🛠️ Tech Stack
+📊 Data Analytics, Business Intelligence & Data Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-198CE7?style=for-the-badge&logo=mlflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+☁️ Cloud Data Platforms & Analytics Engineering
+
+🚀 Passionate about turning complex data into actionable insights
+
+🌍 Open to opportunities across France and Europe
 
 ---
 
-## 🌐 Connect with Me
+## 🧠 Core Expertise
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/visali-baskaran-kalpana-899b391b7)
+### 📊 Data Analytics & Business Intelligence
+- Tableau & Power BI
+- KPI Monitoring & Executive Reporting
+- Dashboard Development
+- Data Storytelling & Visualization
+- Business Performance Analysis
 
+### ⚙️ Data Engineering & Analytics Engineering
+- Python & SQL
+- ETL / ELT Development
+- Apache Airflow
+- Apache Spark & SparkSQL
+- Data Modeling
+- Data Integration & Transformation
+- Data Quality Engineering
+
+### ☁️ Cloud & Data Platforms
+- Snowflake
+- AWS
+- PostgreSQL
+- Neo4j
+- Data Warehousing
+- Medallion Architecture (Bronze, Silver, Gold)
+
+### 🚀 MLOps & DevOps
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- GitLab CI/CD
+- FastAPI
+- MLflow
+- Grafana
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=visalibaskarankalpana&show_icons=true&locale=en&layout=compact)
+# 🚀 Featured Projects
+
+## ✈️ Flight Price Prediction Platform
+
+End-to-end MLOps platform for airline fare forecasting.
+
+### Highlights
+- Automated data ingestion and transformation pipelines
+- Feature engineering and model training using XGBoost
+- Workflow orchestration with Apache Airflow
+- Experiment tracking using MLflow
+- REST API deployment with FastAPI
+- Containerized deployment using Docker
+
+**Tech Stack:** Python • XGBoost • Airflow • MLflow • FastAPI • Docker • BigQuery
+
+---
+
+## 📈 Meta Ads Performance Dashboard
+
+A Business Intelligence solution analyzing large-scale marketing campaign performance.
+
+### Highlights
+- Processed 400,000+ advertising events
+- Built automated ETL pipelines
+- Developed interactive Power BI dashboards
+- Tracked ROAS, CPC, CTR, and conversion KPIs
+- Delivered executive-level performance reporting
+
+**Tech Stack:** Power BI • SQL • DAX • Python • Meta Marketing API
+
+---
+
+## 🏥 Enterprise Healthcare Analytics
+
+Analytics solutions supporting operational and business performance monitoring.
+
+### Highlights
+- Integrated data from SAP and CRM systems
+- Developed Snowflake transformation pipelines
+- Built Tableau dashboards for business stakeholders
+- Automated KPI monitoring and reporting
+- Generated actionable business insights
+
+**Tech Stack:** Snowflake • SQL • Tableau • SAP • CRM
+
+---
+
+## ☁️ Cloud Data Engineering Projects
+
+Data engineering solutions focused on automation, scalability, and reliability.
+
+### Highlights
+- ETL / ELT pipeline development
+- Workflow orchestration with Airflow
+- Data quality validation frameworks
+- Infrastructure automation using Terraform
+- Cloud deployments on AWS
+
+**Tech Stack:** AWS • Airflow • Spark • PostgreSQL • Docker • Terraform
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Query Languages
+`Python` `SQL` `Java` `JavaScript` `TypeScript`
+
+### Data Engineering
+`Apache Airflow` `Apache Spark` `Kafka` `ETL/ELT` `Data Modeling`
+
+### Analytics & BI
+`Tableau` `Power BI` `DAX` `Data Visualization` `KPI Reporting`
+
+### Databases
+`Snowflake` `PostgreSQL` `MySQL` `Neo4j`
+
+### Cloud & DevOps
+`AWS` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `GitLab CI/CD`
+
+### Machine Learning & MLOps
+`Scikit-Learn` `XGBoost` `MLflow` `FastAPI`
+
+---
+
+## 📈 GitHub Stats
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=visalibaskarankalpana&layout=compact&theme=tokyonight
+
+---
+
+## 🌐 Connect With Me
+
+💼 **LinkedIn**  
+[linkedin.com/in/visali-baskaran-kalpana-899b391b7](https://www.linkedin.com/in/visali-baskaran-kalpana-899b391b7)
+
+📧 **Email**  
+bkvisali@gmail.com
+
+🐙 **GitHub**  
+[github.com/visalibaskarankalpana](https://github.com/visalibaskarankalpana)
+
+---
+
+⭐ *Passionate about building scalable data solutions, enabling data-driven decision-making, and creating business value through analytics and engineering.*
